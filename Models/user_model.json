@@ -1,0 +1,10 @@
+{
+    "_id":"unique id",
+    "firstName":"string",
+    "lastName":"string",
+    "emailId":"email string",
+    "password":"Hash",
+    "accessToken":"Hash",
+    "role":"enum string",
+    "registrationDate":"Date Time"
+}
