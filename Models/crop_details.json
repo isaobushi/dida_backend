@@ -1,8 +1,0 @@
-{
-    "_id":"uniqueId",
-    "ownerId":"userId",
-    "itemName":"name of item",
-    "creationDate":"Date time",
-    "price":"item price",
-    "state":"owner role"
-}
